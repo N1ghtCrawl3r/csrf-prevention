@@ -37,7 +37,7 @@
 <?php
     function user_login()
     {
-        $my_email = 'jona@gmail.com';
+        $my_email = 'user@gmail.com';
         $my_password = 'yolo';
         $email_in = $_POST['email'];
         $password_in = $_POST['password'];
